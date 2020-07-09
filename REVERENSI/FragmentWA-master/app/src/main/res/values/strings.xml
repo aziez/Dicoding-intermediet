@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentWA</string>
+    <string name="Name">listchat_name</string>
+    <string name="Number">phone_number</string>
+</resources>
